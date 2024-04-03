@@ -3,11 +3,11 @@
 
 - 🔭 **Atualmente estou  cursando Análise e Desenvolvimento de Sistemas na Fatec Rio Preto afim de encontrar o meu caminho no mercado de trabalho da programação
 
-- 📫 Você pode me contatar em **amaraljoaovictor@hotmail.com**
+- 📫 Você pode me contatar em **jv-amaralds@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joao-victor-amaral-diniz-de-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joao-victor-amaral-diniz-de-souza" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joao-victor-amaral-diniz-de-souza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joao-victor-amaral-diniz-de-souza/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
