@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou João Victor Amaral Diniz de Souza</h1>
 <h3 align="center">Um aspirante ao vasto mundo da tecnologia</h3>
 
-- 🔭 **Atualmente estou  cursando Análise e Desenvolvimento de Sistemas na Fatec Rio Preto afim de encontrar o meu caminho no mercado de trabalho da programação
+- 🔭 Atualmente estou  cursando Análise e Desenvolvimento de Sistemas na Fatec Rio Preto afim de encontrar o meu caminho no mercado de trabalho da programação, você pode conferir alguns dos meus projetos neste GitHub
 
 - 📫 Você pode me contatar em **jv-amaralds@hotmail.com**
 
